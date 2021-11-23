@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "css-loader",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "CSS Module Loader for Node.js",
+  "main": "css-loader.mjs",
+  "scripts": {},
+  "keywords": [
+    "css",
+    "loader",
+    "nodejs"
+  ],
+  "author": {
+    "name": "Vladyslav Dukhin",
+    "url": "https://vladyslav.dev"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "transform-css-to-js": "^0.1.1"
+  }
+}

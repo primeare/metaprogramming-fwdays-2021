@@ -1,0 +1,10 @@
+.hello {
+  content: 'Hello, World!';
+  color: cornflowerblue;
+  background-color: rgba(25, 25, 125, 1);
+  text-align: center;
+}
+
+.wow {
+  animation: linear 0.1s linear;
+}

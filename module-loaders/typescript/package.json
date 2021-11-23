@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "typescript-loader",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "TypeScript Module Loader for Node.js",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "typescript",
+    "loader",
+    "nodejs"
+  ],
+  "author": {
+    "name": "Vladyslav Dukhin",
+    "url": "https://vladyslav.dev"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
