@@ -1,0 +1,19 @@
+{
+	"React funtional component template": {
+		"description": "React funtional component template with PropTypes",
+		"scope": "javascript,typescript",
+		"prefix": "fc",
+		"body": [
+			"import React from 'react';",
+			"import PropTypes from 'prop-types';\n",
+			"export function ${1:ComponentName}({ ${2:props} }) {",
+			"\treturn (",
+			"\t\t$0",
+			"\t);",
+			"}\n",
+			"${1:ComponentName}.propTypes = {",
+			"\t${2/([^,\\s]+),?/$1: PropTypes.any,/g}",
+			"};"
+		]
+	}
+}
