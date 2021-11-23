@@ -1,0 +1,28 @@
+{
+  "name": "metaprogramming-fwdays-2021",
+  "version": "1.0.0",
+  "description": "Applied Enterprise Metaprogramming in JavaScript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primeare/metaprogramming-fwdays-2021.git"
+  },
+  "keywords": [
+    "metaprogramming",
+    "fwdays",
+    "fwdays-2021"
+  ],
+  "author": {
+    "name": "Vladyslav Dukhin",
+    "url": "https://vladyslav.dev"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/primeare/metaprogramming-fwdays-2021/issues"
+  },
+  "homepage": "https://github.com/primeare/metaprogramming-fwdays-2021#readme",
+  "devDependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
