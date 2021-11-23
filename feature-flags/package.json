@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "feature-flags",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Express.js Feature Flags",
+  "main": "app.mjs",
+  "scripts": {
+    "start": "node app.mjs"
+  },
+  "keywords": [
+    "express",
+    "feature flag"
+  ],
+  "author": {
+    "name": "Vladyslav Dukhin",
+    "url": "https://vladyslav.dev"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
