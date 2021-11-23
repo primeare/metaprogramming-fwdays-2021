@@ -1,4 +1,4 @@
-// run this file using command `node --allow_natives_syntax nodejs.mjs`
+// run this file using command `node --allow_natives_syntax v8-native-syntax.mjs`
 
 const exampleFunction = (...args) => Math.max(...args);
 
