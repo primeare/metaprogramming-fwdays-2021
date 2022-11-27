@@ -1,6 +1,6 @@
 {
-	"React funtional component template": {
-		"description": "React funtional component template with PropTypes",
+	"React functional component template": {
+		"description": "React functional component template with PropTypes",
 		"scope": "javascript,typescript",
 		"prefix": "fc",
 		"body": [
